@@ -723,6 +723,19 @@
       "order": 30
     },
     {
+      "id": "bhikshu_31",
+      "categoryId": "bhikshu_stuti",
+      "titleHindi": "भिक्षु म्हारे कण कण में",
+      "titleEnglish": "Bhikshu Mhare Kann Kann Mein",
+      "contentType": "SIMPLE",
+      "lyrics": "भिक्षु म्हारे कण कण में\nभिक्षु म्हारे अंतर मन में",
+      "writer": null,
+      "tune": null,
+      "youTubeVideoId": null,
+      "startTimeSeconds": 0,
+      "order": 31
+    },
+    {
       "id": "teerthankar_chaubisi_01",
       "categoryId": "teerthankar_chaubisi",
       "titleHindi": "आदिनाथ प्रभु स्तवन",
@@ -2727,6 +2740,8 @@
       "order": 1
     }
   ],
-  "contentVersion": 1,
-  "specialDaySongs": []
+  "contentVersion": 2,
+  "specialDaySongs": [
+    { "date": "2026-09-03", "songId": "mangal_01" }
+  ]
 }
