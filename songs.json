@@ -736,6 +736,19 @@
       "order": 31
     },
     {
+      "id": "bhikshu_32",
+      "categoryId": "bhikshu_stuti",
+      "titleHindi": "भिक्षु म्हारे अंतर मन में",
+      "titleEnglish": "Bhikshu Mhare Antar Mann Mein",
+      "contentType": "SIMPLE",
+      "lyrics": "भिक्षु म्हारे अंतर मन में,\nभिक्षु म्हारे रोम रोम में",
+      "writer": null,
+      "tune": null,
+      "youTubeVideoId": null,
+      "startTimeSeconds": 0,
+      "order": 32
+    },
+    {
       "id": "teerthankar_chaubisi_01",
       "categoryId": "teerthankar_chaubisi",
       "titleHindi": "आदिनाथ प्रभु स्तवन",
