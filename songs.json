@@ -19,112 +19,112 @@
       "nameHindi": "तीर्थंकर चौबीसी",
       "nameEnglish": "Teerthankar Chaubisi",
       "coverImage": "album13",
-      "order": 3
+      "order": 11
     },
     {
       "id": "ashtakams",
       "nameHindi": "अष्टकम",
       "nameEnglish": "Ashtakams",
       "coverImage": "album0014",
-      "order": 4
+      "order": 14
     },
     {
       "id": "updesh_geet",
       "nameHindi": "उपदेश गीत",
       "nameEnglish": "Updesh Geet",
       "coverImage": "album007",
-      "order": 5
+      "order": 7
     },
     {
       "id": "teerthankar_chaubees_hai",
       "nameHindi": "तीर्थंकर चौबीस है",
       "nameEnglish": "Teerthankar Chaubees Hai",
       "coverImage": "albumteerthankar24hai",
-      "order": 6
+      "order": 18
     },
     {
       "id": "mahapragya_stuti",
       "nameHindi": "महाप्रज्ञ स्तुति",
       "nameEnglish": "Mahapragya Stuti",
       "coverImage": "album5",
-      "order": 7
+      "order": 4
     },
     {
       "id": "tulsi_stuti",
       "nameHindi": "तुलसी स्तुति",
       "nameEnglish": "Tulsi Stuti",
       "coverImage": "album4",
-      "order": 8
+      "order": 3
     },
     {
       "id": "all_pratikramans",
       "nameHindi": "प्रतिक्रमण",
       "nameEnglish": "All Pratikramans",
       "coverImage": "album_0000",
-      "order": 9
+      "order": 15
     },
     {
       "id": "mahashraman_geetikaeyin",
       "nameHindi": "महाश्रमण गीतिकाएं",
       "nameEnglish": "Mahashraman Geetikaeyin",
       "coverImage": "album0012",
-      "order": 10
+      "order": 5
     },
     {
       "id": "terapanth_prabodh",
       "nameHindi": "तेरापंथ प्रबोध",
       "nameEnglish": "Terapanth Prabodh",
       "coverImage": "album_00tp",
-      "order": 12
+      "order": 13
     },
     {
       "id": "shaasan_stuti",
       "nameHindi": "शासन स्तुति",
       "nameEnglish": "Shaasan Stuti",
       "coverImage": "album006",
-      "order": 13
+      "order": 6
     },
     {
       "id": "tapasya_geet",
       "nameHindi": "तपस्या गीत",
       "nameEnglish": "Tapasya Geet",
       "coverImage": "album08",
-      "order": 14
+      "order": 8
     },
     {
       "id": "logass_paath",
       "nameHindi": "लोगस्स पाठ",
       "nameEnglish": "Logass Paath",
       "coverImage": "album0009",
-      "order": 15
+      "order": 10
     },
     {
       "id": "uvasaggaharam_stotra",
       "nameHindi": "उवसग्गहरं स्तोत्र",
       "nameEnglish": "Uvasaggaharam Stotra",
       "coverImage": "album0010",
-      "order": 16
+      "order": 9
     },
     {
       "id": "bhaktamar_stotra",
       "nameHindi": "भक्तामर स्तोत्र",
       "nameEnglish": "Bhaktamar Stotra",
       "coverImage": "album_011",
-      "order": 17
+      "order": 12
     },
     {
       "id": "arhat_vandana",
       "nameHindi": "अर्हत वंदना",
       "nameEnglish": "Arhat Vandana",
       "coverImage": "album_16",
-      "order": 18
+      "order": 16
     },
     {
       "id": "mangal_paath",
       "nameHindi": "मंगल पाठ",
       "nameEnglish": "Mangal Paath",
       "coverImage": "albummangalpaath",
-      "order": 19
+      "order": 17
     }
   ],
   "songs": [
@@ -734,19 +734,6 @@
       "youTubeVideoId": null,
       "startTimeSeconds": 0,
       "order": 31
-    },
-    {
-      "id": "bhikshu_32",
-      "categoryId": "bhikshu_stuti",
-      "titleHindi": "भिक्षु म्हारे अंतर मन में",
-      "titleEnglish": "Bhikshu Mhare Antar Mann Mein",
-      "contentType": "SIMPLE",
-      "lyrics": "भिक्षु म्हारे अंतर मन में,\nभिक्षु म्हारे रोम रोम में",
-      "writer": null,
-      "tune": null,
-      "youTubeVideoId": null,
-      "startTimeSeconds": 0,
-      "order": 32
     },
     {
       "id": "teerthankar_chaubisi_01",
@@ -2755,6 +2742,9 @@
   ],
   "contentVersion": 3,
   "specialDaySongs": [
-    { "date": "2026-09-03", "songId": "mangal_01" }
+    {
+      "date": "2026-09-03",
+      "songId": "mangal_01"
+    }
   ]
 }
